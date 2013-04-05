@@ -1,0 +1,15 @@
+{
+  "name": "express-domain-errors",
+  "version": "0.0.1",
+  "description": "Use domains for graceful error handling in expressjs",
+  "keywords": [ "domain", "express", "connect", "graceful errors" ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git://github.com/mathrawka/express-domain-errors.git",
+  "homepage": "https://github.com/mathrawka/express-domain-errors",
+  "author": "Jon Keating <jon@licq.org>",
+  "license": "MIT",
+  "engines": {"node": ">= 0.8.0"}
+}
