@@ -1,6 +1,6 @@
 {
   "name": "express-domain-errors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use domains for graceful error handling in expressjs",
   "keywords": [ "domain", "express", "connect", "graceful errors" ],
   "main": "index.js",
